@@ -1,8 +1,5 @@
 
-
---->
-- 👋 Hi, I’m @Laikalearns
-- 👀 I’m interested in learning code and technologies!
-- 🌱 I’m currently learning Python, Lua, and Solidty
-- 📫 How to reach me (here)
-- ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+- 👋 Hi, I’m Kimchi Smurf 
+- 👀 Workday engineer by day
+- 🌱 Student by night 
+- 🌱 learning Python, Lua, and Solidty
