@@ -1,5 +1,6 @@
 
 - 👋 Hi, I’m Kimchi Smurf 
-- 👀 Workday engineer by day
+- 👀 Workday dev manager by day
 - 🌱 Student by night 
-- 🌱 Learning Python, Lua, Solidty and more!
+- 🌱 Learning Python, Lua, and more!
+- 🌱 Kaggle 
