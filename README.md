@@ -1,5 +1,5 @@
-
-- 👋 Hi, I’m Kimchi Smurf 
-- 🌱 Student by night 
-- 🌱 Learning Python, Lua, Seaborn, and more!
-- 🌱 Kaggle 
+👋 Hi
+📕 Learning projects via Python, Lua, Seaborn, and more!
+📗 Learning through Kaggle!
+  🔰https://www.kaggle.com/learn/certification/kimchismurf/python
+  
