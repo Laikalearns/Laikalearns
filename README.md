@@ -15,8 +15,3 @@ Kaggle: [kimchismurf](https://www.kaggle.com/kimchismurf)
 | [Analytics_fun](https://github.com/Laikalearns/Analytics_fun) | Analytics practice work |
 | [Lua-Bot-Discordia-](https://github.com/Laikalearns/Lua-Bot-Discordia-) | Discord bot in Lua |
 
-## How I keep this page
-
-- **Showcase** — something a hiring manager can clone in 5 minutes
-- **Practice** — learning repos, kept public on purpose
-- **Notes** — [Grok](https://github.com/Laikalearns/Grok) is an index of Grok Build experiments
