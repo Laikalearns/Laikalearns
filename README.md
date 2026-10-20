@@ -1,17 +1,20 @@
 # The North
 
-Bay Area. Building small agents and analytics tools you can actually run.
+Bay Area builder of small, runnable agents and analytics tools.
 
-**Now looking at:** finance workforce planning, BI + LLMs, and demo-ready agents.
+**Focus:** finance workforce planning · BI + LLMs · demo-ready agents you can actually run.
 
 Kaggle: [kimchismurf](https://www.kaggle.com/kimchismurf)
 
-## Start here
+## Featured projects
 
 | Repo | What it is |
 | --- | --- |
-| [workforce-scout](https://github.com/Laikalearns/workforce-scout) | Headcount planning agent. Roster → loaded cost → cap. Runs with no API key. |
+| [**workforce-scout**](https://github.com/Laikalearns/workforce-scout) | Headcount planning agent. Roster → fully loaded cost → cap check. Runs with no API key. Interview-ready. |
 | [BI-LLM-POC](https://github.com/Laikalearns/BI-LLM-POC) | Early BI + LLM proof of concept |
-| [Analytics_fun](https://github.com/Laikalearns/Analytics_fun) | Analytics practice work |
-| [Lua-Bot-Discordia-](https://github.com/Laikalearns/Lua-Bot-Discordia-) | Discord bot in Lua |
+| [Analytics_fun](https://github.com/Laikalearns/Analytics_fun) | Analytics practice & hypothetical projects |
+| [Lua-Bot-Discordia-](https://github.com/Laikalearns/Lua-Bot-Discordia-) | Discord bot written in Lua |
 
+---
+
+*One Vision, One Purpose*
